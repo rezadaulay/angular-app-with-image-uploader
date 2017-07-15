@@ -1,4 +1,4 @@
-# Simple Laravel & AngularJS Create Web App With Image Uploader Support
+# Simple Laravel & AngularJS Web App With Image Uploader Support
 
 Example Of Simple [Laravel](https://laravel.com) & [AngularJS](https://angular.io/) Web App With Image Uploader Support.
 
